@@ -1,4 +1,4 @@
-# Capstone Project Module 3 - Bike Sharing
+# Bike Sharing Unit Prediction 
 
 ## **Contents**
 
